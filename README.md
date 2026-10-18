@@ -1,6 +1,7 @@
 # Hackathon Directory
 
 A fast, lightweight hackathon directory built with Next.js 15, TypeScript, Tailwind CSS v4, and Supabase.
+v0 of https://github.com/gopal092003/HackTrack
 
 ## Stack
 
